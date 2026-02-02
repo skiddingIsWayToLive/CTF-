@@ -16,7 +16,11 @@ zsteg -a <file>
 
 mmls (disk partition)
 
-dd if=<filename> of=<newfile. img> bs=<bytes> skip <start> count<length>
+dd if=<filename> of=<newfile. img> bs=<bytes> skip <start> count<length>  && then string it with grep AIO or -n 10 or whatever
+
+fls -r -p <filename.img>
+
+icat <namefile.img> <nom> > flag.gz  && then gunzip it then you get the flag
 
 strings <newfile.img> | grep AIO or -n 10
 
