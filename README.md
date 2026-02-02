@@ -1,5 +1,7 @@
 file 
 
+find | grep -r "AIO"
+
 strings
 
 grep
