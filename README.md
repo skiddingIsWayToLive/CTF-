@@ -29,7 +29,7 @@ xxd <file> | (hexdecimal fixing)
 ls -alps
 
 
-rockyou.txt (from github)
+rockyou.txt https://weakpass.com/wordlists/rockyou.txt
 
 zip2john > hash 
 
