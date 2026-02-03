@@ -16,6 +16,8 @@ zsteg <file>
 
 zsteg -a <file>
 
+autopsy (if you know)
+
 mmls (disk partition)
 
 dd if= <filename> of=<newfile. img> bs=<bytes> skip <start> count<length>  && then string it with grep AIO or -n 10 or whatever
