@@ -87,3 +87,5 @@ https://en.wikipedia.org/wiki/List_of_file_signatures (files header to fixing)
 
 https://hexed.it/ (hex fixing)
 
+hey dont forget to use that thing if you lost it :)
+
